@@ -1,1 +1,1 @@
-## Discord bot for Le Boyz
+## Discord bot for Le Boyzz
